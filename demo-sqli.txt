@@ -1,0 +1,1 @@
+select * from user where (correo= "admin"); -- " or usuario= "admin"); -- ") and clave= "19692201ffbe8020e9607044f2c6b9c8afbdd96c" and operativo=1
